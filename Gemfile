@@ -58,3 +58,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Use mongo
 gem "mongoid", "~> 7.0"
+
+# Use
+gem 'devise'
+gem 'omniauth-facebook'
